@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ApiCall\TestWebApi\TestWebApi\obj\Debug\TestWebApi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ApiCall\TestWebApi\TestWebApi\obj\Debug\TestWebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ApiCall\TestWebApi\TestWebApi\bin\Debug\TestWebApi.exe.config
+C:\Users\User\Desktop\ApiCall\TestWebApi\TestWebApi\bin\Debug\TestWebApi.exe
+C:\Users\User\Desktop\ApiCall\TestWebApi\TestWebApi\bin\Debug\TestWebApi.pdb
+C:\Users\User\Desktop\ApiCall\TestWebApi\TestWebApi\obj\Debug\TestWebApi.exe
+C:\Users\User\Desktop\ApiCall\TestWebApi\TestWebApi\obj\Debug\TestWebApi.pdb
